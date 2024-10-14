@@ -6,6 +6,7 @@ namespace Math_Expression.ConsoleApp1
         static void Main(string[] args)
         {
             //here we call the method Run which located in App class to start everythings 
+            // new comment
 
             App.Run(args);
         }
